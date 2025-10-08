@@ -1,0 +1,38 @@
+[
+    {
+      id: 1,
+      title: "Music Production",
+      subtitle: "From Idea to Final Track",
+      img: "/services/cart1.jpg",
+    },
+    {
+      id: 2,
+      title: "Music Production",
+      subtitle: "From Idea to Final Track",
+      img: "/services/cart2.jpg",
+    },
+    {
+      id: 3,
+      title: "Music Production",
+      subtitle: "From Idea to Final Track",
+      img: "/services/cart3.jpg",
+    },
+    {
+      id: 4,
+      title: "Music Production",
+      subtitle: "From Idea to Final Track",
+      img: "/services/cart4.jpg",
+    },
+    {
+      id: 5,
+      title: "Music Production",
+      subtitle: "From Idea to Final Track",
+      img: "/services/cart5.jpg",
+    },
+    {
+      id: 6,
+      title: "Music Production",
+      subtitle: "From Idea to Final Track",
+      img: "/services/cart6.jpg",
+    },
+  ];

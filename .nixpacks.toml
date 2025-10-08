@@ -1,0 +1,16 @@
+# .nixpacks.toml
+[phases.setup]
+# শুধুমাত্র Node.js 20 ব্যবহার করুন, যেহেতু আপনি npm ব্যবহার করছেন
+nixPkgs = ["nodejs 20"] 
+
+[phases.install]
+# Rollup এর ত্রুটি এড়াতে npm install এর সাথে --force বা --no-package-lock ব্যবহার করুন। 
+# --force ব্যবহার করা সবচেয়ে শক্তিশালী।
+cmds = ["npm install --force"] 
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+# আপনার Start Command টিও এখানে ঠিক করে দিন, build এর বদলে dist
+cmd = "npx serve -s dist -l 3000"

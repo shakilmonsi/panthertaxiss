@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "NOLSTAGIA",
+    "time": "2:45",
+    "bpm": "103",
+    "tags": ["Afrobeat", "Happy"],
+    "thumbnail": "/shoppingcart/cart5.jpg",
+    "price": 30.0
+  },
+  {
+    "id": 2,
+    "title": "Melody Magic",
+    "time": "3:10",
+    "bpm": "120",
+    "tags": ["Electronic", "Energetic"],
+    "thumbnail": "/shoppingcart/cart6.jpg",
+    "price": 25.0
+  },
+  {
+    "id": 3,
+    "title": "Chill Vibes",
+    "time": "4:00",
+    "bpm": "90",
+    "tags": ["Jazz", "Chill"],
+    "thumbnail": "/shoppingcart/cart7.jpg",
+    "price": 35.0
+  },
+  {
+    "id": 4,
+    "title": "Groovy Beat",
+    "time": "2:50",
+    "bpm": "110",
+    "tags": ["Hip-hop", "Inspiring"],
+    "thumbnail": "/shoppingcart/cart1.jpg",
+    "price": 28.0
+  },
+  {
+    "id": 5,
+    "title": "Urban Flow",
+    "time": "3:15",
+    "bpm": "95",
+    "tags": ["Hip-hop", "Smooth"],
+    "thumbnail": "/shoppingcart/default.jpg",
+    "price": 32.5
+  },
+  {
+    "id": 6,
+    "title": "Dreamscape",
+    "time": "4:30",
+    "bpm": "80",
+    "tags": ["Ambient", "Relaxing"],
+    "thumbnail": "/shoppingcart/default.jpg",
+    "price": 40.0
+  },
+  {
+    "id": 7,
+    "title": "Future Funk",
+    "time": "2:30",
+    "bpm": "128",
+    "tags": ["Electronic", "Upbeat"],
+    "thumbnail": "/shoppingcart/default.jpg",
+    "price": 27.0
+  },
+  {
+    "id": 8,
+    "title": "Soulful Journey",
+    "time": "3:55",
+    "bpm": "75",
+    "tags": ["Soul", "Melancholy"],
+    "thumbnail": "/shoppingcart/default.jpg",
+    "price": 38.0
+  },
+  {
+    "id": 9,
+    "title": "Electro Pulse",
+    "time": "3:05",
+    "bpm": "135",
+    "tags": ["Electronic", "Intense"],
+    "thumbnail": "/shoppingcart/default.jpg",
+    "price": 29.99
+  },
+  {
+    "id": 10,
+    "title": "Acoustic Sunset",
+    "time": "3:40",
+    "bpm": "68",
+    "tags": ["Acoustic", "Calm"],
+    "thumbnail": "/shoppingcart/default.jpg",
+    "price": 31.0
+  }
+]
